@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "default": "Polska",
+  "lists": [
+    {
+      "name": "Polska",
+      "file": "lists/Polska.zip"
+    },
+    {
+      "name": "IPTV",
+      "file": "lists/IPTV.zip"
+    }
+  ]
+}
